@@ -1,0 +1,31 @@
+Django==1.8.3
+dj-database-url==0.3.0
+dj-static==0.0.6
+gunicorn==19.1.1
+psycopg2==2.5.1
+static==0.4
+static3==0.6.1
+wsgiref==0.1.2
+django-ckeditor
+stripe
+DjangoRestless==0.0.6
+djangorestframework==3.0.2
+django-taggit
+django-easy-pdf
+xhtml2pdf>=0.0.6
+reportlab>=2.7,<3
+braintree
+django-localflavor==1.0
+django-s3-folder-storage
+django-queryset-csv
+django-sslify
+python-dateutil
+numpy
+boto3
+html5lib==1.0b8
+newrelic
+simplejson
+celery == 3.1.24
+django-celery == 3.1.17
+boto
+honcho==0.5.0
