@@ -108,7 +108,7 @@ print PROJECT_ROOT
 print BASE_DIR
 STATIC_ROOT = os.path.join('static')
 if DEBUG:
-    STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static')
+    STATIC_ROOT = os.path.join('static')
 STATIC_URL = '/static/'
 
 # Extra places for collectstatic to find static files.
